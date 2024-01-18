@@ -1,3 +1,5 @@
 
 body {color:black;background:pink}
 /* css는 마스터가 우선 */
+
+h1 {font-size:20px;}
